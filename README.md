@@ -15,9 +15,13 @@ A custom PCB in the shape of my FRC team's logo (T), with art and references I l
 
 # BOM
 1 Battery holder
+
 2 220 Resistor
+
 1 Push Button
+
 1 Mini motor disc
+
 2 LEDs
 
 Made by @Atrocious on Slack 👌
