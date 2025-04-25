@@ -14,14 +14,10 @@ A custom PCB in the shape of my FRC team's logo (T), with art and references I l
 ![image](https://github.com/user-attachments/assets/3bee41a9-bd74-4937-86ec-739853aa050b)
 
 # BOM
-1 Battery holder
-
-2 220 Resistor
-
-1 Push Button
-
-1 Mini motor disc
-
-2 LEDs
+- 1 Battery holder
+- 2 220 Resistor
+- 1 Push Button
+- 1 Mini motor disc
+- 2 LEDs
 
 Made by @Atrocious on Slack 👌
