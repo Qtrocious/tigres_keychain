@@ -6,6 +6,8 @@ A custom PCB in the shape of my FRC team's logo (T), with art and references I l
 
 # PCB
 ![image](https://github.com/user-attachments/assets/a9ab5339-58c3-41f9-bc35-b2adb1973fd4)
+![image](https://github.com/user-attachments/assets/13c291b6-c238-4877-a087-544f94c7c18e)
+
 
 # 3D view
 ![image](https://github.com/user-attachments/assets/3a6f720d-a28d-4213-b7c2-67b3eb0c3b28)
