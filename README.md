@@ -5,13 +5,15 @@ A custom PCB in the shape of my FRC team's logo (T), with art and references I l
 ![image](https://github.com/user-attachments/assets/be81f9e8-832a-47ac-9cb0-ea1e89bd4acb)
 
 # PCB
-![image](https://github.com/user-attachments/assets/a9ab5339-58c3-41f9-bc35-b2adb1973fd4)
-![image](https://github.com/user-attachments/assets/13c291b6-c238-4877-a087-544f94c7c18e)
+![Silkscvreen](https://github.com/user-attachments/assets/8a4e08d7-1898-4109-98f2-a99ae6f5ce01)
+![routing](https://github.com/user-attachments/assets/b8b629ab-5c87-430b-9855-599605972a6e)
 
 
 # 3D view
-![image](https://github.com/user-attachments/assets/3a6f720d-a28d-4213-b7c2-67b3eb0c3b28 = 250x250)
-![image](https://github.com/user-attachments/assets/3bee41a9-bd74-4937-86ec-739853aa050b)
+![front3dview](https://github.com/user-attachments/assets/78c93691-8396-4aef-adb7-d37fce648232)
+![back3dview](https://github.com/user-attachments/assets/934eaf08-016a-413f-ab9a-bb1fdf869813)
+
+
 
 # BOM
 - 1 Battery holder
