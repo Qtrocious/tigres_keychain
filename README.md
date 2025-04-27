@@ -1,5 +1,5 @@
 # tigres_keychain
-A custom PCB in the shape of my FRC team's logo (T), with art and references I like!!
+A custom PCB in the shape of my FRC team's logo (Tigres 6652), with art and references I like!!
 
 # Schematic
 ![image](https://github.com/user-attachments/assets/be81f9e8-832a-47ac-9cb0-ea1e89bd4acb)
