@@ -10,7 +10,7 @@ A custom PCB in the shape of my FRC team's logo (T), with art and references I l
 
 
 # 3D view
-![image](https://github.com/user-attachments/assets/3a6f720d-a28d-4213-b7c2-67b3eb0c3b28)
+![image](https://github.com/user-attachments/assets/3a6f720d-a28d-4213-b7c2-67b3eb0c3b28 = 250x250)
 ![image](https://github.com/user-attachments/assets/3bee41a9-bd74-4937-86ec-739853aa050b)
 
 # BOM
