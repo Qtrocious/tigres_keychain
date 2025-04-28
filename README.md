@@ -5,13 +5,14 @@ A custom PCB in the shape of my FRC team's logo (Tigres 6652), with art and refe
 ![image](https://github.com/user-attachments/assets/be81f9e8-832a-47ac-9cb0-ea1e89bd4acb)
 
 # PCB
-![Silkscvreen](https://github.com/user-attachments/assets/8a4e08d7-1898-4109-98f2-a99ae6f5ce01)
-![routing](https://github.com/user-attachments/assets/b8b629ab-5c87-430b-9855-599605972a6e)
+![Silkscvreen](https://github.com/user-attachments/assets/8b5734f9-4f7e-49db-9c8f-1318df30f76e)
+![routing](https://github.com/user-attachments/assets/d4e98e3f-96d4-4817-b743-454a2ecd8d78)
+
 
 
 # 3D view
-![front3dview](https://github.com/user-attachments/assets/78c93691-8396-4aef-adb7-d37fce648232)
-![back3dview](https://github.com/user-attachments/assets/934eaf08-016a-413f-ab9a-bb1fdf869813)
+![front3dview](https://github.com/user-attachments/assets/84fe98ea-c977-4c67-a1d6-9adf58b1b774)
+![back3dview](https://github.com/user-attachments/assets/150586c5-a6e6-48d4-abef-c534507d35dc)
 
 
 
