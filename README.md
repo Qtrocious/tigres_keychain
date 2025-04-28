@@ -19,7 +19,7 @@ A custom PCB in the shape of my FRC team's logo (Tigres 6652), with art and refe
 
 # BOM
 - 1 Battery holder
-- 2 220 Resistor
+- 3 220 Resistor
 - 1 Push Button
 - 1 Mini motor disc
 - 2 LEDs
