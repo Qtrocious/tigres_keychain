@@ -2,7 +2,8 @@
 A custom PCB in the shape of my FRC team's logo (Tigres 6652), with art and references I like!!
 
 # Schematic
-![image](https://github.com/user-attachments/assets/be81f9e8-832a-47ac-9cb0-ea1e89bd4acb)
+![image](https://github.com/user-attachments/assets/1e98dce1-1fa0-4eca-8cb8-d531f1b2f0ed)
+
 
 # PCB
 ![Silkscvreen](https://github.com/user-attachments/assets/8b5734f9-4f7e-49db-9c8f-1318df30f76e)
